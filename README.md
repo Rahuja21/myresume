@@ -1,2 +1,2 @@
 # myresume
-this is my git project
+this is read me file
